@@ -1,0 +1,35 @@
+﻿  main.cpp
+c:\users\kangbok lee\desktop\kb\cmsc\cmsc 420 (computer graphics)\project\skeletal\skeletal\main.cpp(31): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kangbok lee\desktop\kb\cmsc\cmsc 420 (computer graphics)\project\skeletal\skeletal\main.cpp(104): warning C4005: 'FIELD_OFFSET': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winnt.h(1178): note: see previous definition of 'FIELD_OFFSET'
+c:\users\kangbok lee\desktop\kb\cmsc\cmsc 420 (computer graphics)\project\skeletal\skeletal\main.cpp(210): warning C4244: 'argument': conversion from 'double' to 'const T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\kangbok lee\desktop\kb\cmsc\cmsc 420 (computer graphics)\project\skeletal\skeletal\main.cpp(218): warning C4244: 'argument': conversion from 'double' to 'const T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\kangbok lee\desktop\kb\cmsc\cmsc 420 (computer graphics)\project\skeletal\skeletal\main.cpp(222): warning C4244: 'argument': conversion from 'double' to 'const T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\kangbok lee\desktop\kb\cmsc\cmsc 420 (computer graphics)\project\skeletal\skeletal\main.cpp(234): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\kangbok lee\desktop\kb\cmsc\cmsc 420 (computer graphics)\project\skeletal\skeletal\main.cpp(236): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\kangbok lee\desktop\kb\cmsc\cmsc 420 (computer graphics)\project\skeletal\skeletal\main.cpp(284): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kangbok lee\desktop\kb\cmsc\cmsc 420 (computer graphics)\project\skeletal\skeletal\main.cpp(308): warning C4244: 'argument': conversion from 'const T' to 'const GLfloat', possible loss of data
+          with
+          [
+              T=double
+          ]
+c:\users\kangbok lee\desktop\kb\cmsc\cmsc 420 (computer graphics)\project\skeletal\skeletal\main.cpp(309): warning C4244: 'argument': conversion from 'const T' to 'const GLfloat', possible loss of data
+          with
+          [
+              T=double
+          ]
+c:\users\kangbok lee\desktop\kb\cmsc\cmsc 420 (computer graphics)\project\skeletal\skeletal\main.cpp(319): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\kangbok lee\desktop\kb\cmsc\cmsc 420 (computer graphics)\project\skeletal\skeletal\main.cpp(533): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  Skeletal.vcxproj -> C:\Users\Kangbok Lee\Desktop\KB\CMSC\CMSC 420 (Computer Graphics)\Project\Skeletal\Debug\Skeletal.exe
